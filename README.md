@@ -2,10 +2,10 @@
 Used BFS algortihm to solve the problem of finding the shortest path from one point to another.
 
 There are 4 Test cases for my project :
-No Solution found
-Diagonal Movement
-Maze
-Random undefined Maze
+No Solution found,
+Diagonal Movement,
+Maze,
+Random undefined Maze.
 
 EXPLANATION OF CODE IS GIVEN BELOW :
 
